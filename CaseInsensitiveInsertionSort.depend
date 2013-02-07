@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1360245877 source:c:\users\christine\desktop\program\sorting\sorting passwords\caseinsensitiveinsertionsort\caseinsensitive.cpp
+	<string>
+	<iostream>
+	<cstring>
+	"CaseInsensitive.h"
+
+1360253275 c:\users\christine\desktop\program\sorting\sorting passwords\caseinsensitiveinsertionsort\caseinsensitive.h
+	<string>
+
+1360245909 source:c:\users\christine\desktop\program\sorting\sorting passwords\caseinsensitiveinsertionsort\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"CaseInsensitive.h"
+
